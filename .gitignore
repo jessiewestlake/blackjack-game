@@ -1,2 +1,4 @@
 /.pytest_cache
 /package-lock.json
+/app/__pycache__
+/app/__pycache__/*
